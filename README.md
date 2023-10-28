@@ -1,10 +1,15 @@
-👦 Hi, I’m Ventsi Radev and am based in New York City
+# About me
 
-🔎 I have 2 years of experience driving projects at Stanley Black & Decker and a Masters in Mathematics. I am experienced with Python and SQL, as well as most mainstay business services; e.g. Power BI, Alteryx, Snowflake & Power Automate
+👦 I’m Ventsi Radev; a 24 y/o aspiring dev, based in New York City.
 
-👶 I am currently learning C to shape my programming fundamentals and working on my regex to add to my versatility
+🔎 I am coming up on 2 years of experience in driving & delivering projects at Stanley Black & Decker and have a Masters in Mathematics. I am experienced with Python and SQL, as well as mainstay business services like Power BI, Alteryx & Power Automate.
 
-📧 Reach me at ventsipr@gmail.com
+👶 I am currently learning C to shape my programming fundamentals and working on my regex to add to my versatility.
+
+# 📧 Contact / more info
+- ventsipr@gmail.com
+- https://linkedin.com/in/ventsir/
+- Check out my portfolio (comprised of mostly pet projects) here on my GitHub profile!
 
 <!---
 ventsiR/ventsiR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
