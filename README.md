@@ -1,10 +1,10 @@
 # About me
 
-👦 I’m Ventsi Radev; a 24 y/o aspiring dev, based in New York City.
+I’m Ventsi Radev; a 24 y/o aspiring dev, based in New York City.
 
-🔎 I am coming up on 2 years of experience in driving & delivering projects at Stanley Black & Decker and have a Masters in Mathematics. I am experienced with Python and SQL, as well as mainstay business services like Power BI, Alteryx & Power Automate.
+I am coming up on 2 years of experience in driving & delivering projects at Stanley Black & Decker and have a Masters in Mathematics. I am experienced with Python and SQL, as well as mainstay business services like Power BI, Alteryx & Power Automate.
 
-👶 I am currently learning C to shape my programming fundamentals and working on my regex to add to my versatility.
+I am currently learning C to shape my programming fundamentals and working on my regex to add to my versatility.
 
 # 📧 Contact / more info
 - ventsipr@gmail.com
