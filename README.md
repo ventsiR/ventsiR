@@ -1,6 +1,6 @@
 # About me
 
-My name is Ventsi Radev and I am aspiring towards a career in software engineering.
+My name is Ventsi Radev, I am based in the US and am aspiring towards a career in software engineering.
 
 I graduated from Lancaster University with a Masters in Mathematics in 2021, and over the past 2 years I have consistently driven & delivered projects at Stanley Black & Decker. I am experienced with Python and SQL, as well as mainstay business services like Alteryx, Snowflake, Power BI & Power Automate.
 
