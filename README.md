@@ -9,7 +9,7 @@ Currently I'm learning C to strengthen my low-level programming fundamentals and
 # 📧 Contact / more info
 - ventsipr@gmail.com
 - https://linkedin.com/in/ventsir/
-- Check out my portfolio (comprised of mostly pet projects) here on my GitHub profile!
+- Check out [my portfolio](./Portfolio) (comprised of mostly pet projects)
 
 <!---
 ventsiR/ventsiR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
