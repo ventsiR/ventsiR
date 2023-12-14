@@ -6,10 +6,11 @@ I graduated from Lancaster University with a Masters in Mathematics in 2021, and
 
 Currently I'm learning C to strengthen my low-level programming fundamentals and improving my RegEx.
 
-# 📧 Contact / more info
+# 📧 Contact
 - ventsipr@gmail.com
 - https://linkedin.com/in/ventsir/
-- Check out [my portfolio](./Portfolio) (comprised of mostly pet projects)
+
+# Check out [my portfolio](./Portfolio).
 
 <!---
 ventsiR/ventsiR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
