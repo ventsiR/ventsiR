@@ -28,10 +28,14 @@ class Solution:
                         tree.append([currNodes[i].val, currCoords[i]])
                     if currNodes[i].left is not None:
                         nextNodes.append(currNodes[i].left)
-                        nextCoords.append([currCoords[i][0]+1, currCoords[i][1]-1])
+                        nextCoords.append(
+                            [currCoords[i][0]+1, currCoords[i][1]-1]
+                        )
                     if currNodes[i].right is not None:
                         nextNodes.append(currNodes[i].right)
-                        nextCoords.append([currCoords[i][0]+1, currCoords[i][1]+1])
+                        nextCoords.append(
+                            [currCoords[i][0]+1, currCoords[i][1]+1]
+                        )
                 if len(nextNodes) == 0:
                     break
                 else:
