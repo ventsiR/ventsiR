@@ -1,4 +1,4 @@
-#---Problem: https://leetcode.com/problems/interval-list-intersections/
+#---Problem: https://leetcode.com/problems/interval-list-intersections/description/
 
 from typing import List
 
