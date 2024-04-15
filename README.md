@@ -1,8 +1,10 @@
 # About me
 
-My name is Ventsi Radev, I am based in the US and am aspiring towards a career in data/software.
+My name is Ventsi Radev. I am based in the US and open to any opportunities.
 
-I graduated from Lancaster University with a Masters in Mathematics in 2021, and over the past 2 years I have consistently driven & delivered projects at Stanley Black & Decker. I am experienced with Python and SQL, as well as mainstay business services like Alteryx, Snowflake, Power BI & Power Automate.
+I graduated from Lancaster University with a Masters in Mathematics in 2021, and over the past 2 years I have consistently delivered projects at Stanley Black & Decker, from Data Science to Digital Transformation.
+
+I am experienced with Python and SQL, as well as mainstay business services like Alteryx, Snowflake, Power BI & Power Automate.
 
 # 📧 Contact
 - ventsipr@gmail.com
