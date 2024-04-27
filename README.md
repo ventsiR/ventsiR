@@ -13,7 +13,7 @@ Experience driving global projects to completion. Fluent in Python and SQL, as w
 - ventsipr@gmail.com
 - https://linkedin.com/in/ventsir/
 
-# Check out [my projects](https://ventsir.github.io/)
+# Check out [my projects page](https://ventsir.github.io/)
 # Check out [my portfolio](./Portfolio)
 
 <!---
