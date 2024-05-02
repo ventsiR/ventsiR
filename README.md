@@ -6,7 +6,7 @@ I graduated from Lancaster University with a Masters in Mathematics in 2021. Pre
 
 Experience driving global projects to completion. Fluent in Python and SQL, as well as  mainstay business services like Power BI, Alteryx, Snowflake & Power Automate.
 
-[See my Resume for more info](24_04_25_resume.pdf)
+[See my Resume for more info](24_05_02_resume.pdf)
 
 # 📧 Contact
 - https://linktr.ee/ventsir
