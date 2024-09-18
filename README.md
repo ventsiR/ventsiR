@@ -2,7 +2,7 @@
 
 A Business Intelligence Dev based in the US.
 
-Currently a contracted Project Data Analyst at [Cornerstone Bulding Brands](https://www.cornerstonebuildingbrands.com/). Previously worked in BI Development, Digital Transformation & Data Analysis for [Stanley Black & Decker](https://www.stanleyblackanddecker.com/) (Jan 2022 - Mar 2024) on their [Leadership Program](https://www.stanleyblackanddecker.com/careers/early-career/leadership-program).
+Currently a contracted Project Data Analyst at [Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/). Previously worked in BI Development, Digital Transformation & Data Analysis for [Stanley Black & Decker](https://www.stanleyblackanddecker.com/) (Jan 2022 - Mar 2024) on their [Leadership Program](https://www.stanleyblackanddecker.com/careers/early-career/leadership-program).
 
 ### [Projects page](https://ventsir.github.io/)
 ### [Portfolio](./Portfolio)
@@ -12,10 +12,10 @@ Graduated with a Master's Degree in Mathematics from [Lancaster University](http
 ### Skills
 
 * Familiarity in driving global projects through their entire development life cycle
-* Deep experience with data: interactive visualizitaions via Power BI, transformation with Alteryx, and automated pulling using SQL Snowflake, APIs & Power Automate
-* Fluency with Python; implementing ad-hoc scraping, API & visualizatoin solutions using NumPy, pandas, Matplotlib, BeautifulSoup & requests
+* Deep experience with data: interactive visualization via Power BI, transformation with Alteryx, and automated pulling using SQL Snowflake, APIs & Power Automate
+* Fluency with Python; implementing ad-hoc scraping, API & visualization solutions using NumPy, pandas, Matplotlib, BeautifulSoup & requests
 * Capability developing front-end mobile & PC GUIs and back-end databases & pipelines for production applications
-* Background in a professional capacity to: write documentation for my projects post-deployment, conduct hand-over, on-board team members and lead casual workshops
+* Background in a professional capacity to: write documentation for my projects post-deployment, conduct hand-overs, on-board team members and lead casual workshops
 * Understanding of low-level programming concepts, proficiency with C
 
 ### Learning
