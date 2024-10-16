@@ -2,7 +2,7 @@
 
 A Business Intelligence Dev based in the US.
 
-Currently a contracted Project Data Analyst at [Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/). Previously worked in BI Development, Digital Transformation & Data Analysis for [Stanley Black & Decker](https://www.stanleyblackanddecker.com/) (Jan 2022 - Mar 2024) on their [Leadership Program](https://www.stanleyblackanddecker.com/careers/early-career/leadership-program).
+Currently a contracted Product Data Analyst at [Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/). Previously worked in BI Development, Digital Transformation & Data Analysis for [Stanley Black & Decker](https://www.stanleyblackanddecker.com/) (Jan 2022 - Mar 2024) on their [Leadership Program](https://www.stanleyblackanddecker.com/careers/early-career/leadership-program).
 
 ### [Projects page](https://ventsir.github.io/)
 ### [Portfolio](./Portfolio)
